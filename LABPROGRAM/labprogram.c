@@ -15,6 +15,15 @@ int main()
 	fputs(str,stdout);
 }
 	
+OUTPUT
+	
+enter the input
+Hello BMS how are you?
+the text is
+Hello BMS how are you?
 
-	
-	
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .

@@ -56,6 +56,46 @@ int main()
 		printf("Marks of student is %f\n",s[i+1].marks);
 	}
 }
+OUTPUT
+enter the details of student
+enter Roll no of student 1
+29
+enter the name of student 1
+SHREEHARI
+Enter the section of student 1
+CC
+enter the department of student 1
+CSE
+Enter the fees paid by student 1
+58806
+enter the marks of student 1
+99
+enter Roll no of student 2
+44
+enter the name of student 2
+VALLISHA
+Enter the section of student 2
+CC
+enter the department of student 2
+CSE
+Enter the fees paid by student 2
+58806
+enter the marks of student 2
+100
+Marks of student 2 is greater than student 1
+Roll no of student is 44
+Name of student is VALLISHA
+Section of student is CC
+department of student is CSE
+Fees of student is 58806.000000
+Marks of student is 100.000000
+
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .
+
 		
 		
 		
